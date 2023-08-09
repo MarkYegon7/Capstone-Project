@@ -145,7 +145,7 @@
 }
 
 .program-points {
-  color: hsl(11.01deg 100% 52.2%);
+  color: #ec5242;
   font-family: 'Lato', sans-serif;
 }
 
@@ -157,11 +157,11 @@
 .btn-summit {
   border: 1px solid hsl(11.01deg 100% 52.2%);
   color: #ffff;
-  background-color: hsl(11.01deg 100% 52.2%);
+  background-color: #ec5242;
   width: 75vw;
-  padding: 2% 7% 5% 5%;
+  padding: 3% 7% 5% 5%;
   margin: 4% 3% 5% 12%;
-  height: 5vh;
+  height: 7vh;
   font-family: 'Lato', sans-serif;
   font-size: 20px;
 }
@@ -414,7 +414,7 @@
 
   .image-speaker {
     width: 9vw;
-    height: 60%;
+    height: 64%;
   }
 
   .attendees-info {
