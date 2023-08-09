@@ -218,7 +218,7 @@
 .explanation-speaker {
   font-family: 'Lato', sans-serif;
   font-size: 15px;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .partners {
@@ -277,8 +277,8 @@
     font-family: 'Lato', sans-serif;
     font-size: 17px;
     color: #00000094;
-    padding: 1.5% 0 2% 1%;
-    gap: 9%;
+    padding: 1% 0 3% 1%;
+    gap: 12%;
   }
 
   .nav-content li {
@@ -293,9 +293,9 @@
     justify-content: center;
     font-size: 17px;
     font-weight: 700;
-    margin: -8% 1% 1% 1%;
+    margin: -5% 1% 1% 1%;
     height: 2vh;
-    width: 10vw;
+    width: 9vw;
     padding: 5% 3% 5% 3%;
   }
 
@@ -337,10 +337,11 @@
     margin: 0.2%;
     padding: 1% 1% 1% 1%;
     width: 12%;
+    border: 0.01px solid #80808029;
   }
 
   .grid-program:hover {
-    background-color: #00000045;
+    border-color: #ffff;
   }
 
   #gr-program {
@@ -411,8 +412,6 @@
   }
 
   .image-speaker {
-    /* width: 12vw;
-    height: 70%; */
     width: 9vw;
     height: 60%;
   }
@@ -436,8 +435,6 @@
   }
 
   .about-partners {
-    /* width: 100%;
-    padding: 3% 2% 1% 2%; */
     display: none;
   }
 
