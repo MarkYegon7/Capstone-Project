@@ -16,44 +16,44 @@ document.querySelectorAll('.popupButtons').forEach((n) => n.addEventListener('cl
 
 const attendees = [
   {
-    image: 'images/stefano.jpeg',
-    name: 'Stefano Domenicalli',
-    role: 'President & CEO Formula1',
+    image: 'images/speaker_01 1.svg',
+    name: 'Yochai Benkler',
+    role: 'Berkman Professor',
     history: 'After joining Ferrari as a young man,he worked his way up to become Team Principal',
   },
 
   {
-    image: 'images/hamilton.jpeg',
-    name: 'Lewis Hamilton',
+    image: 'images/speaker_01 1 (1).svg',
+    name: 'Kilnam Chon',
     role: '103 Grand Prix Winner',
     history: 'British racing driver currently competing in Formula One, driving for Mercedes.',
   },
 
   {
-    image: 'images/schumacher3.jpeg',
-    name: 'Michael Schumacher',
-    role: '91 Grand Prix Winner',
+    image: 'images/speaker_01 1 (2).svg',
+    name: 'SohYeong Noh',
+    role: 'Director Art Centre',
     history: 'Former German racing driver who competed in Formula One for Jordan, Benetton, Ferrari, and Mercedes',
   },
 
   {
-    image: 'images/vettel2.jpeg',
-    name: 'Sebastian Vettel',
-    role: '53 Grand Prix Winner',
+    image: 'images/speaker_01 1 (3).svg',
+    name: 'Julia Leda',
+    role: 'President Young Pirates',
     history: 'German racing driver who competed in Formula One from 2007 to 2022 for BMW Sauber, Toro Rosso, Red Bull, Ferrari and Aston Martin.',
   },
 
   {
-    image: 'images/verstappen.jpeg',
-    name: 'Max Verstappen',
-    role: '44 Grand Prix Winner',
+    image: 'images/speaker_01 1 (4).svg',
+    name: 'Lila tretikov',
+    role: 'Executive Director of Wikimedia',
     history: 'Dutch and Belgian racing driver and the 2021 and 2022 Formula One World Champion with Red Bull Racing.',
   },
 
   {
-    image: 'images/leclerc.jpeg',
-    name: 'Charles Leclerc',
-    role: '21 Grand Prix Winner',
+    image: 'images/speaker_01 1 (5).svg',
+    name: 'Ryan Merkley',
+    role: 'CEO of Creative Commons',
     history: 'Monégasque racing driver, currently racing in Formula One for Scuderia Ferrari.',
   },
 ];
