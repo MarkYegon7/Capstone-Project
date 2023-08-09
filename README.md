@@ -137,6 +137,6 @@ Credit to Cindy Shin the author of the original design
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/MarkYegon7/Project-Capstone/blob/2682c49a798b21e6fc07cd8914078753813d7bb8/LICENSE) licensed.
+This project is [MIT](https://github.com/MarkYegon7/Capstone-Project/blob/c67b338acd19d54498b981642bc30d9b7c5fdf2d/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
